@@ -1,3 +1,6 @@
+# Normalization
+https://www.youtube.com/watch?v=GFQaEYEc8_8
+
 # Relational Model
 
 ![SQL](./1.png)
