@@ -1,3 +1,6 @@
+# ERD
+https://www.youtube.com/watch?v=-fQ-bRllhXc
+
 # Normalization
 https://www.youtube.com/watch?v=GFQaEYEc8_8
 
